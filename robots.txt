@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gooreezee.praxis-network.org/sitemap.xml
